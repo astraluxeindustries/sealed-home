@@ -92,7 +92,7 @@ const Home: React.FC = () => {
                className="relative rounded-2xl overflow-hidden shadow-2xl group cursor-pointer"
             >
               <img 
-                src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" 
+                src="https://youtu.be/GSEJU-P0Rd4?si=Qn9G5eIEM0-IDaIr" 
                 alt="Holmes and Holmes Aeroseal Feature" 
                 className="w-full h-full object-cover aspect-video group-hover:scale-105 transition-transform duration-700"
               />
